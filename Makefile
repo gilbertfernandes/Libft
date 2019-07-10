@@ -6,7 +6,7 @@
 #    By: gfernand <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/05/23 09:37:03 by gfernand          #+#    #+#              #
-#    Updated: 2019/06/26 15:37:59 by gfernand         ###   ########.fr        #
+#    Updated: 2019/07/10 16:27:39 by gfernand         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -66,6 +66,7 @@ FILESC = 	ft_atoi.c\
 			ft_strcat.c\
 			ft_strmap.c\
 			ft_strtrim.c\
+			ft_strdupdel.c\
 
 OBJECTS =	$(FILESC:%.c=%.o)
 
