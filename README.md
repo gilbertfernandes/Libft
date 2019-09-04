@@ -1,2 +1,2 @@
 # Libft
-Libft
+Creating a personal library
